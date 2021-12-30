@@ -57,8 +57,8 @@ def main_menu():
 		
 	
 	
-AES_KEY = 'faac7a03dbcb45fc4f016a5b02175c45535ee89e505d834bca11d9eadd6ce68e' 
-TOKEN = 'NpMfb52bdd184e93dfe0759097d8f22e7bcffacdf7bbc5f92e5a0fc7679'
+AES_KEY = 'Your aes key' 
+TOKEN = 'your token'
 
 key = b'2Wq7)qkX~cp7)H|n_tc&o+:G_USN3/-uIi~>M+c ;Oq]E{t9)RC_5|lhAA_Qq%_4'
 
