@@ -1,31 +1,22 @@
-# Phone_Parser
-## Функциональность 
-- Поиск номера на Авито
-- Поиск номера на GETCONTACT
-- Поиск стандартных данных о номере
-- Дополнительная инструкция по использованию утилиты 
-- Заказать у разработчика поиск VK, INSTA, TG, аккаунта по номеру
-- Связь с разработчиком
-
-### ВНИМАНИЕ На Termux не запускать 
-
-# Android PyDroid3
-- Установка Phone Parser на Android
-
-Нажми на картинку что бы посмотреть видео
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_jW7qqoNoi8" target="_blank"><img src="http://img.youtube.com/vi/_jW7qqoNoi8/0.jpg" 
-alt="Установка Phone Parser на Android" width="240" height="180" border="10" /></a>
+# Get_Contact
+## Utility
+- Number lookup in Avito
+- Find number in GETCONTACT
+- Search standard room data
+- Additional instructions for using the utility
+- Order developer to search VK, INSTA, TG, account number
+- Communication with developers
+### WARNING Do not run on Termux
 
 
+# Installing on Linux/Windows
 
-# Установка в Linux
-## Основные пакеты 
-- Python 3.8 [ apt-get install python3 ]
-- git [ apt-get install git ]
-### Linux
+## Basic packages
+- Python 3.8 
+- git 
+### Linux/Windows
 
-> git clone https://github.com/CyberUSA/Phone_Parser
+> git clone https://github.com/mohamad1213/GetContact.git
 
 > cd Phone_Parser
 
@@ -35,6 +26,10 @@ alt="Установка Phone Parser на Android" width="240" height="180" bord
 
 
 
-# Связь с разработчиком 
+
+# Contact the developer
 - VK: @CyberUSA
 - TG: @CyberUSA
+
+# Contact the Editor
+- Mohamad Hatami
